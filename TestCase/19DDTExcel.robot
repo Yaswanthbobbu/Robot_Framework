@@ -15,7 +15,6 @@ Test Template   Invalid Test
 *** Test Cases ***
 LoginTestwithExcel  using   ${username}     ${password}
 
-
 *** keywords ***
 Invalid Test
     [Arguments]     ${username}     ${password}
